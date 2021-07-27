@@ -1,24 +1,26 @@
 # c-sharp-examples
 Collection of my c-sharp program examples
 
-- [BinaryConverter](https://github.com/M-Enes/c-sharp-examples/tree/master/BinaryConverter)
+- [BinaryConverter](https://github.com/M-Enes/c-sharp-examples/tree/main/BinaryConverter)
 
-- [BinaryFinder](https://github.com/M-Enes/c-sharp-examples/tree/master/BinaryFinder)
+- [BinaryFinder](https://github.com/M-Enes/c-sharp-examples/tree/main/BinaryFinder)
 
-- [Days](https://github.com/M-Enes/c-sharp-examples/tree/master/Days)
+- [Days](https://github.com/M-Enes/c-sharp-examples/tree/main/Days)
 
-- [Methods](https://github.com/M-Enes/c-sharp-examples/tree/master/Methods)
+- [Methods](https://github.com/M-Enes/c-sharp-examples/tree/main/Methods)
 
-- [NotHesapla](https://github.com/M-Enes/c-sharp-examples/tree/master/NotHesapla)
+- [NotHesapla](https://github.com/M-Enes/c-sharp-examples/tree/main/NotHesapla)
 
-- [Odev](https://github.com/M-Enes/c-sharp-examples/tree/master/Odev)
+- [Odev](https://github.com/M-Enes/c-sharp-examples/tree/main/Odev)
 
-- [OOPBasics](https://github.com/M-Enes/c-sharp-examples/tree/master/OOPBasics)
+- [OOPBasics](https://github.com/M-Enes/c-sharp-examples/tree/main/OOPBasics)
 
-- [OtoKiralama](https://github.com/M-Enes/c-sharp-examples/tree/master/OtoKiralama)
+- [OtoKiralama](https://github.com/M-Enes/c-sharp-examples/tree/main/OtoKiralama)
 
-- [Practices](https://github.com/M-Enes/c-sharp-examples/tree/master/Practices)
+- [Practices](https://github.com/M-Enes/c-sharp-examples/tree/main/Practices)
 
-- [SchoolNot](https://github.com/M-Enes/c-sharp-examples/tree/master/SchoolNot)
+- [SayiTahminOyunu](https://github.com/M-Enes/c-sharp-examples/tree/main/SayiTahminOyunu)
 
-- [VarKeyword](https://github.com/M-Enes/c-sharp-examples/tree/master/VarKeyword)
+- [SchoolNot](https://github.com/M-Enes/c-sharp-examples/tree/main/SchoolNot)
+
+- [VarKeyword](https://github.com/M-Enes/c-sharp-examples/tree/main/VarKeyword)
